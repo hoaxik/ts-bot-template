@@ -1,0 +1,1 @@
+# Bot template for TypeScript
