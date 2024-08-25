@@ -1,1 +1,1 @@
-#Bot template for TypeScript
+Bot template for TypeScript
